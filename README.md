@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hamza Ikram</h1>
-<h3 align="center">A passionate Laravel Developer From Pakistan</h3>
+<h1 align="center">Hi 👋, Welcome to my profile</h1>
+<h3 align="center"> I am a dedicated Laravel developer from 🇵🇰</h3>
 
 <p align="left"> <a href="https://twitter.com/h_ik04" target="blank"><img src="https://img.shields.io/twitter/follow/h_ik04?logo=twitter&style=for-the-badge" alt="h_ik04" /></a> </p>
 
-- 🔭 I’m currently working on [Profresh](https://github.com/hamza094/ProFresh)
+- 🔭 I am currently working on an open-source single-page application (SPA) that is based on Laravel and Vue.js If you're interested in learning more about this             project, please check out the project repository [Profresh](https://github.com/hamza094/ProFresh)
 
-- 🌱 I’m currently learning **every thing related to laravel**
+- 🌱 In my free time, I love learning about new **Laravel features and techniques to enhance my skills**
 
-- 👨‍💻 All of my projects are available at [https://hikportfolio.herokuapp.com/](https://hikportfolio.herokuapp.com/)
+- 💬 If you have any questions about Laravel or web development, don't hesitate to ask me. I'm always excited to share my knowledge and help others
 
-- 💬 Ask me about **Laravel and Web Development**
-
-- 📫 How to reach me **hamza_pisces@live.com**
+- 📫 You can reach me at **hamza_pisces@live.com**
 
 - 📄 Know about my experiences [https://resume.io/r/Cwm4rSt49](https://resume.io/r/Cwm4rSt49)
 
