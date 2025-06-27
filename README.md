@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, Welcome to my profile</h1>
-<h3 align="center"> I am a dedicated Laravel developer from 🇵🇰</h3>
+![Capture007](https://github.com/user-attachments/assets/3432e220-5c44-4238-8ba5-cf56ed4e7eb3)
 
-<p align="left"> <a href="https://twitter.com/h_ik04" target="blank"><img src="https://img.shields.io/twitter/follow/h_ik04?logo=twitter&style=for-the-badge" alt="h_ik04" /></a> </p>
+<h1 align="center">Hi, Welcome to my profile! 👋</h1>
+<h3 align="center"> I am a freelance Laravel web developer from Pakistan <flag-icon key="pk"></flag-icon></h3>
 
 - 🔭 I am currently working on an open-source single-page application (SPA) that is based on Laravel and Vue.js If you're interested in learning more about this             project, please check out the project repository [Profresh](https://github.com/hamza094/ProFresh)
 
@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/h_ik04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h_ik04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamzaikramch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzaikramch" height="30" width="40" /></a>
-<a href="https://dribbble.com/hamza943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hamza943" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
